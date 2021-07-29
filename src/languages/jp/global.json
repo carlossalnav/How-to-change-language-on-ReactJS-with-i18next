@@ -1,0 +1,14 @@
+{
+    "navbar":{
+        "navbar_home": "家",
+        "navbar_about": "およそ"
+    },
+    "home":{
+        "home_title": "こんにちは私は Lorem Ipsum です",
+        "home_subtitle": "最新の開発者"
+    },
+    "about":{
+        "about_title": "私について",
+        "about_subtitle": "私は最高のサービスを持っています"
+    }
+}

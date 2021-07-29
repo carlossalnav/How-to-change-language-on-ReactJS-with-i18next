@@ -1,0 +1,14 @@
+{   
+    "navbar":{
+        "navbar_home": "Inicio",
+        "navbar_about": "Acerca"
+    },
+    "home":{
+        "home_title": "Hola soy Lorem Ipsum",
+        "home_subtitle": "El desarrollador mas nuevo"
+    },
+    "about":{
+        "about_title": "Acerca de mí",
+        "about_subtitle": "Tengo el mejor servicio"
+    }
+}
